@@ -1,2 +1,5 @@
-Refer to my environment which is OSX to perform daily run use 
-crontab
+Refer to my environment which is OSX to perform daily run use crontab assume we want to execute at midnight
+
+1. crontab -e 
+2. put command 0 0 * * * /<pythonPath> /<pyhton.pyfile>
+3. check with crontab -l
