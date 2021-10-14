@@ -14,9 +14,7 @@ app.get('/results/:projectId',(req,res) =>{
     console.log(results)
     res.json(results.find(result => result.runId == req.params.projectId))
 })
-app.get('/results',(req,res) =>{
-    res.end(JSON.stringify(results))
-})
+
 
 app.post('/stabilty',(req,res,next) =>{
     const bearerHeader = req.headers['authorization']
