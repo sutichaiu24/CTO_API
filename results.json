@@ -1,0 +1,102 @@
+[ 
+    { 
+        "runId": 1001, 
+        "status": "Passed", 
+        "testsTotal": 12, 
+        "testsPassed": 12, 
+        "testsFailed": 0, 
+        "duration": 600, 
+        "timeStarted": "2021-07-09 01:00:00.510398", 
+        "timeFinished": "2021-07-09 01:10:00.107914" 
+    }, 
+    { 
+        "runId": 1002, 
+        "status": "Passed", 
+        "testsTotal": 12, 
+        "testsPassed": 12, 
+        "testsFailed": 0, 
+        "duration": 600, 
+        "timeStarted": "2021-07-09 02:00:00.510398", 
+        "timeFinished": "2021-07-09 02:10:00.107914" 
+    }, 
+    { 
+        "runId": 1003, 
+        "status": "Failed", 
+        "testsTotal": 12, 
+        "testsPassed": 1, 
+        "testsFailed": 11, 
+        "duration": 1010, 
+        "timeStarted": "2021-07-09 03:00:00.510398", 
+        "timeFinished": "2021-07-09 03:16:50.107914" 
+    }, 
+    { 
+        "runId": 1004, 
+        "status": "Failed", 
+        "testsTotal": 12, 
+        "testsPassed": 1, 
+        "testsFailed": 11, 
+        "duration": 1010, 
+        "timeStarted": "2021-07-09 04:00:00.510398", 
+        "timeFinished": "2021-07-09 04:16:50.107914" 
+    }, 
+    { 
+        "runId": 1005, 
+        "status": "Passed", 
+        "testsTotal": 12, 
+        "testsPassed": 12, 
+        "testsFailed": 0, 
+        "duration": 600, 
+        "timeStarted": "2021-07-09 05:00:00.510398", 
+        "timeFinished": "2021-07-09 05:10:00.107914" 
+    }, 
+    { 
+        "runId": 1006, 
+        "status": "Failed", 
+        "testsTotal": 12, 
+        "testsPassed": 1, 
+        "testsFailed": 11, 
+        "duration": 1010, 
+        "timeStarted": "2021-07-09 06:00:00.510398", 
+        "timeFinished": "2021-07-09 06:16:50.107914" 
+    }, 
+    { 
+        "runId": 1007, 
+        "status": "Failed", 
+        "testsTotal": 12, 
+        "testsPassed": 1, 
+        "testsFailed": 11, 
+        "duration": 1010, 
+        "timeStarted": "2021-07-09 07:00:00.510398", 
+        "timeFinished": "2021-07-09 07:16:50.107914" 
+    }, 
+    { 
+        "runId": 1008, 
+        "status": "Failed", 
+        "testsTotal": 12, 
+        "testsPassed": 1, 
+        "testsFailed": 11, 
+        "duration": 1010, 
+        "timeStarted": "2021-07-09 08:00:00.510398", 
+        "timeFinished": "2021-07-09 08:16:50.107914" 
+    }, 
+    { 
+        "runId": 1009, 
+        "status": "Passed", 
+        "testsTotal": 12, 
+        "testsPassed": 12, 
+        "testsFailed": 0, 
+        "duration": 600, 
+        "timeStarted": "2021-07-09 08:00:00.510398", 
+        "timeFinished": "2021-07-09 08:10:00.107914" 
+    }, 
+    { 
+        "runId": 1010, 
+        "status": "Failed", 
+        "testsTotal": 12, 
+        "testsPassed": 1, 
+        "testsFailed": 11, 
+        "duration": 1010, 
+        "timeStarted": "2021-07-10 04:00:00.510398", 
+        "timeFinished": "2021-07-10 04:16:50.107914" 
+    } 
+] 
